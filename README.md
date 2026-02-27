@@ -6,7 +6,11 @@
 
 ###
 
+<<<<<<< HEAD
 <h2 align="left">Sobre mim - teste</h2>
+=======
+<h2 align="left">Sobre mim 😁</h2>
+>>>>>>> f7d46509e8fdc809dfac1bda0b2134368ef2cffa
 
 ###
 
